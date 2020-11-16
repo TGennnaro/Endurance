@@ -1,0 +1,10 @@
+1. Start Program
+2. Main LED turns green (RGB 0, 180, 0)
+3. Robot says “Ready set go”
+4. Robot moves 0 degrees for 22’ and stops
+5. Robot moves 90 degrees for 11’8” and stops
+6. Robot moves 180 degrees for 21’6” and stops
+7. Robot moves 270 degrees for 11’10” and stops
+8. Main LED turns red (RGB 255, 0, 0)
+9. Robot says “I am done and I need water”
+10. Stop Program
